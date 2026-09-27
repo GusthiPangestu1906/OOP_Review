@@ -1,0 +1,32 @@
+# NetBeans private user configurations & credentials
+**/nbproject/private/
+build/
+dist/
+nbbuild/
+dist-temp/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machine crash logs
+hs_err_pid*
+replay_pid*
+
+# Sensitive and credential files
+.env
+.env.*
+*.key
+*.pem
+*credential*
+*secret*
